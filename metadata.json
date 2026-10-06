@@ -1,0 +1,7 @@
+{
+  "name": "Pedidos al Día",
+  "description": "Gestión sencilla y rápida de pedidos para negocios familiares de panadería y comida casera.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
